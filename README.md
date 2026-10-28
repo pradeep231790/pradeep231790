@@ -24,6 +24,12 @@ An end-to-end SQL analysis workflow covering database setup, sample data, valida
 
 A separate analysis project with employee, product, department, and management KPI queries plus categorized Workbench and result screenshots. Its analysis queries expect an existing database with the documented tables; database setup and sample-data scripts are not included.
 
+### Cooperative Reporting Portfolio — Anonymized Samples
+
+[Open the repository](https://github.com/pradeep231790/cooperative-reporting-sample-portfolio) · [View live dashboards](https://pradeep231790.github.io/cooperative-reporting-sample-portfolio/)
+
+Five illustrative cooperative-services reporting dashboards with Python builders, sample KPI tables, documentation, and Power BI kits. Organization labels are generalized and figures are rescaled examples, not operational results.
+
 ## Areas of focus
 
 - Program and project delivery
